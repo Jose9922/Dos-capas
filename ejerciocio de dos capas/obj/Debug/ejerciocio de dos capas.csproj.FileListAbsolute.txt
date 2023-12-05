@@ -1,0 +1,10 @@
+C:\Users\Personal\Desktop\C#\ejerciocio de dos capas\ejerciocio de dos capas\bin\Debug\ejerciocio de dos capas.exe.config
+C:\Users\Personal\Desktop\C#\ejerciocio de dos capas\ejerciocio de dos capas\bin\Debug\ejerciocio de dos capas.exe
+C:\Users\Personal\Desktop\C#\ejerciocio de dos capas\ejerciocio de dos capas\bin\Debug\ejerciocio de dos capas.pdb
+C:\Users\Personal\Desktop\C#\ejerciocio de dos capas\ejerciocio de dos capas\obj\Debug\ejerciocio de dos capas.csproj.AssemblyReference.cache
+C:\Users\Personal\Desktop\C#\ejerciocio de dos capas\ejerciocio de dos capas\obj\Debug\ejerciocio_de_dos_capas.Form1.resources
+C:\Users\Personal\Desktop\C#\ejerciocio de dos capas\ejerciocio de dos capas\obj\Debug\ejerciocio_de_dos_capas.Properties.Resources.resources
+C:\Users\Personal\Desktop\C#\ejerciocio de dos capas\ejerciocio de dos capas\obj\Debug\ejerciocio de dos capas.csproj.GenerateResource.cache
+C:\Users\Personal\Desktop\C#\ejerciocio de dos capas\ejerciocio de dos capas\obj\Debug\ejerciocio de dos capas.csproj.CoreCompileInputs.cache
+C:\Users\Personal\Desktop\C#\ejerciocio de dos capas\ejerciocio de dos capas\obj\Debug\ejerciocio de dos capas.exe
+C:\Users\Personal\Desktop\C#\ejerciocio de dos capas\ejerciocio de dos capas\obj\Debug\ejerciocio de dos capas.pdb
